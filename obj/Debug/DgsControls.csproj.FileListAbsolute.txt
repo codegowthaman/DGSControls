@@ -1,0 +1,6 @@
+E:\prg\DGSRepos\DgsControls\DgsControls\bin\Debug\DgsControls.dll
+E:\prg\DGSRepos\DgsControls\DgsControls\bin\Debug\DgsControls.pdb
+E:\prg\DGSRepos\DgsControls\DgsControls\obj\Debug\DgsControls.csprojResolveAssemblyReference.cache
+E:\prg\DGSRepos\DgsControls\DgsControls\obj\Debug\DgsControls.csproj.CoreCompileInputs.cache
+E:\prg\DGSRepos\DgsControls\DgsControls\obj\Debug\DgsControls.dll
+E:\prg\DGSRepos\DgsControls\DgsControls\obj\Debug\DgsControls.pdb
